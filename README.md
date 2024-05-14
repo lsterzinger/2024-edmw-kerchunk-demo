@@ -9,6 +9,7 @@ __This presentation is based on work I did during the [NCAR Summer Internship in
 | File | Description |
 |-:|:-|
 |[01-Create_References.ipynb](./01-Create_References.ipynb)| Listing files in S3, creating kerchunk references, parallelization, reference file aggregation|
+|[02-Reading_References.ipynb](./02-Reading_References.ipynb)| Reading existing Kerchunk reference JSONS, setting up ReferenceFileSystem, plotting data |
 
 ##  Motivation:
 * NetCDF is not cloud optimized
